@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* input[type='text']:focus { box-shadow: none; } */
+
+.hide-scrollbar::-webkit-scrollbar{
+  display: none;
+}
